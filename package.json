@@ -1,6 +1,6 @@
 {
   "name": "command-params",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "获取命令行参数",
   "main": "index.js",
   "scripts": {
