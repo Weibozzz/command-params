@@ -1,0 +1,25 @@
+{
+  "name": "command-params",
+  "version": "0.0.2",
+  "description": "获取命令行参数",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config rollup.config.js",
+    "postbuild": "npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weibozzz/command-params.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weibozzz/command-params/issues"
+  },
+  "homepage": "https://github.com/Weibozzz/command-params#readme",
+  "devDependencies": {
+    "rollup": "^3.18.0"
+  }
+}
